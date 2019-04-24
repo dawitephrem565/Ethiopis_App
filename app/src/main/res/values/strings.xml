@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ethiopis</string>
+    <string name="Main_Page_user_date_display">April9 , 2012</string>
+    <string name="Main_Page_user_name">Mikia Alemu</string>
+    <string name="Main_Page_Reading_Time_Content_Description">Reading Time Image</string>
+    <string name="Main_Page_Reading_Time_TextView">Reading Time</string>
+    <string name="Main_Page_Number_of_Book_TextView">80 books</string>
+    <string name="Main_Page_Start_btton_text">start</string>
+    <string name="Main_Page_Video_TexiView">Reading Time</string>
+    <string name="this_is_image_is_video_thumblnail">This is Image is Video thumblnail</string>
+    <string name="Main_Page_number_of_video_textview">80 books</string>
+    <string name="Main_Page_start_video_Button">start</string>
+    <string name="Main_Page_Role_Model_Text_View">Reading Time</string>
+    <string name="this_is_role_model_image_thumblinail">This is Role Model Image Thumblinail</string>
+    <string name="Main_Page_number_of_roalmodel_books">80 books</string>
+    <string name="Main_Page_Role_Model_start_button">start</string>
+</resources>
